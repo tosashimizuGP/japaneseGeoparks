@@ -202,11 +202,11 @@
         "seq":"15", "attr":"JGP", "name":"下仁田",
         "area":"188.38","ref":"市町村面積",
         "organization":"ジオパーク下仁田協議会",                         
-        "org_body": "https://www.shimonita-geopark.jp/index.html",  
+        "org_body": "https://www.shimonita-geopark.jp/etc/proceeding.html",  
         "office":"《下仁田町自然史館》",
         "latlon":[ 36.20230839626819,138.77537441279858 ],     
         "member":"群馬県下仁田町", 
-        "url":"https://www.shimonita-geopark.jp/etc/proceeding.html", 
+        "url":"https://www.shimonita-geopark.jp/index.html", 
         "theme":"日本列島の誕生をひもとく根なし山", 
         "key_words":"クリッペ 農業 風穴 中央構造線"}, 
     "geometry": { 
